@@ -35,9 +35,11 @@ To use this application, follow these steps:
 23 for Downloading an Object from an AWS S3 Instance
 24 for Creating an Instance with Server and Docker Ins0 for Chrome
 
-4. Enter the numeric command corresponding to your desired action and press Enter.
 
-5. The application will execute the selected action.
+
+3. Enter the numeric command corresponding to your desired action and press Enter.
+
+4. The application will execute the selected action.
 # Requirements
 This application requires a compatible operating system (e.g., Windows) to run the specified programs and tasks.
 # Acknowledgments
