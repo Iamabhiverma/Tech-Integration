@@ -33,7 +33,7 @@ To use this application, follow these steps:
 21 for Creating an AWS S3 Instance
 22 for Uploading an Object to an AWS S3 Instance
 23 for Downloading an Object from an AWS S3 Instance
-24 for Creating an Instance with Server and Docker Installed
+24 for Creating an Instance with Server and Docker Ins0 for Chrome
 
 4. Enter the numeric command corresponding to your desired action and press Enter.
 
